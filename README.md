@@ -1,2 +1,3 @@
 * Just and idea as there was a news article about a man complaining how there were google forms in english and hindi but never in kannada.
 * Tech stack used...
+* I was stuck for **2 days** trying to uninstall node TT. It was in Volta and I didn't know thatttttt
